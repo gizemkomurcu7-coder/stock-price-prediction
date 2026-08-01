@@ -30,3 +30,7 @@ $MSE = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2$
 - Test verisi üzerinde GRU, LSTM'e çok yakın hatta bir tık daha düşük bir MSE değeri verdi. 
 
 İki model de hisse senedi fiyatının genel trendini yakalamayı başardı ancak ani dalgalanmalarda (örneğin pandeminin başlarındaki düşüşler) gecikmeli tepki verdiklerini gözlemledim. Finansal veriler sadece geçmiş fiyatlara bağlı olmadığı için %100 kesin bir tahmin yapmak zaten zor.
+
+sunumu aşağıdaki linkten izleyebilirsiniz
+
+https://drive.google.com/file/d/1dR_JegDAGNJuTCLjhDdZA3mY92oJyC3L/view?usp=sharing
